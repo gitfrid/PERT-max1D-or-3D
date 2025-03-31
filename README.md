@@ -81,7 +81,7 @@ Phyton script [B) PERT.py](https://github.com/gitfrid/PERT-max1D-or-3D/blob/main
 
 **Rising Coverage and Rising Cases:**
 <br>
-<img src=https://github.com/gitfrid/PERT-max1D-or-3D/blob/main/B)%20PERT.py width="1280" height="auto">
+<img src=https://github.com/gitfrid/PERT-max1D-or-3D/blob/main/B%29%20PERT%20rising%20vac%20coverage%20and%20rising%20cases%20trend%202000-2023.png width="1280" height="auto">
 <br>
 
 [Download interactive html](https://github.com/gitfrid/PERT-max1D-or-3D/blob/main/B%29%20PERT%20rising%20vac%20coverage%20and%20rising%20cases%20trend%202000-2023.html) 2000-2023
@@ -118,7 +118,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>DTP-containing vac max(1st or 3rd Dose) for years 1980-2023:
+### Vax coverage vs case incidence rate for differnt countries, <br>DTP-containing vac max(1st or 3rd Dose) for years 1980-2023:
 
 .
 <br>
@@ -128,8 +128,7 @@ _________________________________________
 <br>
 [Download interactive html](https://github.com/gitfrid/PERT-max1D-or-3D/blob/main/D%29%20PERT%20vaccination_vs_reported_cases_dropdown_1980-2023.html) 1980-2023
 [Download interactive html](https://github.com/gitfrid/PERT-max1D-or-3D/blob/main/D%29%20PERT%20vaccination_vs_reported_cases_dropdown_2000-2023.html) 2000-2023
-<br>Download Trends 1980-2023 as interactive HTML-Files from [root directory](https://github.com/gitfrid/PERT-max1D-or-3D/tree/main) for visualizing the downloaded CSV data with trend lines 
-<br>
+<br>Download as interactive HTML-Files from [root directory](https://github.com/gitfrid/PERT-max1D-or-3D/tree/main) for visualizing the downloaded CSV data<br>
 _________________________________________
 
 
